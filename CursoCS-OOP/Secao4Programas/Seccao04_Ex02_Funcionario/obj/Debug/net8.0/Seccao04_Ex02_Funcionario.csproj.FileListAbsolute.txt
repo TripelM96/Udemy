@@ -1,0 +1,14 @@
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\bin\Debug\net8.0\Seccao04_Ex02_Funcionario.exe
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\bin\Debug\net8.0\Seccao04_Ex02_Funcionario.deps.json
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\bin\Debug\net8.0\Seccao04_Ex02_Funcionario.runtimeconfig.json
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\bin\Debug\net8.0\Seccao04_Ex02_Funcionario.dll
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\bin\Debug\net8.0\Seccao04_Ex02_Funcionario.pdb
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\obj\Debug\net8.0\Seccao04_Ex02_Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\obj\Debug\net8.0\Seccao04_Ex02_Funcionario.AssemblyInfoInputs.cache
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\obj\Debug\net8.0\Seccao04_Ex02_Funcionario.AssemblyInfo.cs
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\obj\Debug\net8.0\Seccao04_Ex02_Funcionario.csproj.CoreCompileInputs.cache
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\obj\Debug\net8.0\Seccao04_Ex02_Funcionario.dll
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\obj\Debug\net8.0\refint\Seccao04_Ex02_Funcionario.dll
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\obj\Debug\net8.0\Seccao04_Ex02_Funcionario.pdb
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\obj\Debug\net8.0\Seccao04_Ex02_Funcionario.genruntimeconfig.cache
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex02_Funcionario\obj\Debug\net8.0\ref\Seccao04_Ex02_Funcionario.dll

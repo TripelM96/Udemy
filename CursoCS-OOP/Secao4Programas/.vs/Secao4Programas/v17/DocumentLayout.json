@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Udemy\\CursoCS-OOP\\Secao4_Program\\Secao4Programas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE8EC5-2CB4-492F-8DE5-1A26CFDF4D9A}|Produto_OOP\\Produto_OOP.csproj|d:\\udemy\\cursocs-oop\\secao4_program\\secao4programas\\produto_oop\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BE8EC5-2CB4-492F-8DE5-1A26CFDF4D9A}|Produto_OOP\\Produto_OOP.csproj|solutionrelative:produto_oop\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Udemy\\CursoCS-OOP\\Secao4_Program\\Secao4Programas\\Produto_OOP\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto_OOP\\Produto.cs",
+              "ToolTip": "D:\\Udemy\\CursoCS-OOP\\Secao4_Program\\Secao4Programas\\Produto_OOP\\Produto.cs",
+              "RelativeToolTip": "Produto_OOP\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:58:08.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

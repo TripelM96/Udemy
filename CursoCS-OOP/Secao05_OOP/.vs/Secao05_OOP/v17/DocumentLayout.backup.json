@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Udemy\\CursoCS-OOP\\Secao5_Program\\Secao05_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4E538-C3F0-43B6-833F-7528109E9F54}|Secao05_Ex\\Secao05_Ex.csproj|d:\\udemy\\cursocs-oop\\secao5_program\\secao05_oop\\secao05_ex\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D4E538-C3F0-43B6-833F-7528109E9F54}|Secao05_Ex\\Secao05_Ex.csproj|solutionrelative:secao05_ex\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4E538-C3F0-43B6-833F-7528109E9F54}|Secao05_Ex\\Secao05_Ex.csproj|d:\\udemy\\cursocs-oop\\secao5_program\\secao05_oop\\secao05_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D4E538-C3F0-43B6-833F-7528109E9F54}|Secao05_Ex\\Secao05_Ex.csproj|solutionrelative:secao05_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "D:\\Udemy\\CursoCS-OOP\\Secao5_Program\\Secao05_OOP\\Secao05_Ex\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Secao05_Ex\\ContaBancaria.cs",
+              "ToolTip": "D:\\Udemy\\CursoCS-OOP\\Secao5_Program\\Secao05_OOP\\Secao05_Ex\\ContaBancaria.cs",
+              "RelativeToolTip": "Secao05_Ex\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:37:51.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Udemy\\CursoCS-OOP\\Secao5_Program\\Secao05_OOP\\Secao05_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "Secao05_Ex\\Program.cs",
+              "ToolTip": "D:\\Udemy\\CursoCS-OOP\\Secao5_Program\\Secao05_OOP\\Secao05_Ex\\Program.cs",
+              "RelativeToolTip": "Secao05_Ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:09:14.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

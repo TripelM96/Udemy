@@ -1,0 +1,14 @@
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\bin\Debug\net8.0\Seccao04_Ex01_Retangulo.exe
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\bin\Debug\net8.0\Seccao04_Ex01_Retangulo.deps.json
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\bin\Debug\net8.0\Seccao04_Ex01_Retangulo.runtimeconfig.json
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\bin\Debug\net8.0\Seccao04_Ex01_Retangulo.dll
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\bin\Debug\net8.0\Seccao04_Ex01_Retangulo.pdb
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\obj\Debug\net8.0\Seccao04_Ex01_Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\obj\Debug\net8.0\Seccao04_Ex01_Retangulo.AssemblyInfoInputs.cache
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\obj\Debug\net8.0\Seccao04_Ex01_Retangulo.AssemblyInfo.cs
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\obj\Debug\net8.0\Seccao04_Ex01_Retangulo.csproj.CoreCompileInputs.cache
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\obj\Debug\net8.0\Seccao04_Ex01_Retangulo.dll
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\obj\Debug\net8.0\refint\Seccao04_Ex01_Retangulo.dll
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\obj\Debug\net8.0\Seccao04_Ex01_Retangulo.pdb
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\obj\Debug\net8.0\Seccao04_Ex01_Retangulo.genruntimeconfig.cache
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Seccao04_Ex01_Retangulo\obj\Debug\net8.0\ref\Seccao04_Ex01_Retangulo.dll

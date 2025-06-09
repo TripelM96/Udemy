@@ -1,0 +1,14 @@
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\bin\Debug\net8.0\Secao8_OOP.exe
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\bin\Debug\net8.0\Secao8_OOP.deps.json
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\bin\Debug\net8.0\Secao8_OOP.runtimeconfig.json
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\bin\Debug\net8.0\Secao8_OOP.dll
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\bin\Debug\net8.0\Secao8_OOP.pdb
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\obj\Debug\net8.0\Secao8_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\obj\Debug\net8.0\Secao8_OOP.AssemblyInfoInputs.cache
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\obj\Debug\net8.0\Secao8_OOP.AssemblyInfo.cs
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\obj\Debug\net8.0\Secao8_OOP.csproj.CoreCompileInputs.cache
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\obj\Debug\net8.0\Secao8_OOP.dll
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\obj\Debug\net8.0\refint\Secao8_OOP.dll
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\obj\Debug\net8.0\Secao8_OOP.pdb
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\obj\Debug\net8.0\Secao8_OOP.genruntimeconfig.cache
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_OOP\obj\Debug\net8.0\ref\Secao8_OOP.dll

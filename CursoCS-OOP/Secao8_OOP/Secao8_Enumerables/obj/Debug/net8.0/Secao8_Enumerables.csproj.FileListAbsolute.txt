@@ -1,0 +1,14 @@
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\bin\Debug\net8.0\Secao8_Enumerables.exe
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\bin\Debug\net8.0\Secao8_Enumerables.deps.json
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\bin\Debug\net8.0\Secao8_Enumerables.runtimeconfig.json
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\bin\Debug\net8.0\Secao8_Enumerables.dll
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\bin\Debug\net8.0\Secao8_Enumerables.pdb
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\obj\Debug\net8.0\Secao8_Enumerables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\obj\Debug\net8.0\Secao8_Enumerables.AssemblyInfoInputs.cache
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\obj\Debug\net8.0\Secao8_Enumerables.AssemblyInfo.cs
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\obj\Debug\net8.0\Secao8_Enumerables.csproj.CoreCompileInputs.cache
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\obj\Debug\net8.0\Secao8_Enumerables.dll
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\obj\Debug\net8.0\refint\Secao8_Enumerables.dll
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\obj\Debug\net8.0\Secao8_Enumerables.pdb
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\obj\Debug\net8.0\Secao8_Enumerables.genruntimeconfig.cache
+D:\Udemy\CursoCS-OOP\Secao8_Program\Secao8_OOP\Secao8_Enumerables\obj\Debug\net8.0\ref\Secao8_Enumerables.dll

@@ -1,0 +1,14 @@
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\bin\Debug\net8.0\Secao4Programas.exe
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\bin\Debug\net8.0\Secao4Programas.deps.json
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\bin\Debug\net8.0\Secao4Programas.runtimeconfig.json
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\bin\Debug\net8.0\Secao4Programas.dll
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\bin\Debug\net8.0\Secao4Programas.pdb
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\obj\Debug\net8.0\Secao4Programas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\obj\Debug\net8.0\Secao4Programas.AssemblyInfoInputs.cache
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\obj\Debug\net8.0\Secao4Programas.AssemblyInfo.cs
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\obj\Debug\net8.0\Secao4Programas.csproj.CoreCompileInputs.cache
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\obj\Debug\net8.0\Secao4Programas.dll
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\obj\Debug\net8.0\refint\Secao4Programas.dll
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\obj\Debug\net8.0\Secao4Programas.pdb
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\obj\Debug\net8.0\Secao4Programas.genruntimeconfig.cache
+D:\Udemy\CursoCS-OOP\Secao4_Program\Secao4Programas\Secao4Programas\obj\Debug\net8.0\ref\Secao4Programas.dll

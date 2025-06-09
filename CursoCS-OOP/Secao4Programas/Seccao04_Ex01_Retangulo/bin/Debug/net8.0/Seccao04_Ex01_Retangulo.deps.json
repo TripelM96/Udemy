@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Seccao04_Ex01_Retangulo/1.0.0": {
+        "runtime": {
+          "Seccao04_Ex01_Retangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seccao04_Ex01_Retangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
